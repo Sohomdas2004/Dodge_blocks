@@ -1,2 +1,1 @@
-streamlit>=1.30
-pygame>=2.5
+streamlit>=1.30,<2.0
